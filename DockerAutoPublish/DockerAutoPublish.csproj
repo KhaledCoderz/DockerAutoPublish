@@ -10,7 +10,6 @@
     <IsPublishable>true</IsPublishable>
     <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
     <ContainerImageName>dotnet-worker-image</ContainerImageName>
-    <DockerfileFile>../Dockerfile</DockerfileFile>
   </PropertyGroup>
 
   <ItemGroup>
